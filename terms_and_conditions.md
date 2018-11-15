@@ -99,7 +99,7 @@ permalink: /terms/
 
 <h3><strong>Your Privacy</strong></h3>
 
-<p>Please read <a href="https://privacypolicygenerator.info/">our Privacy Policy</a>.</p>
+<p>Please read <a href="https://draybee.github.io/draybee/privacy-policy/">our Privacy Policy</a>.</p>
 
 <h3><strong>Reservation of Rights</strong></h3>
 
