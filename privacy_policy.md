@@ -3,15 +3,12 @@ layout: page
 title: Privacy Policy
 permalink: /privacy-policy/
 ---
-<h1>Privacy Policy</h1>
-
 
 <p>Effective date: November 18, 2018</p>
 
-
 <p>Draybee ("us", "we", or "our") operates the  website and the Draybee mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for Draybee is managed with the help of <a href="https://privacypolicies.com/free-privacy-policy-generator/">Privacy Policies</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
@@ -103,7 +100,7 @@ permalink: /privacy-policy/
 
 
 <h2>Children's Privacy</h2>
-<p>Our Service does not address anyone under the age of 18 ("Children").</p>
+<p>Our Service does not address anyone under the age of 16 ("Children").</p>
 <p>We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.</p>
 
 
@@ -116,5 +113,5 @@ permalink: /privacy-policy/
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
-    <li>By email: dev.draybee@gmail.com</li>      
+    <li>By email: draybee.dev@gmail.com</li>      
 </ul>
